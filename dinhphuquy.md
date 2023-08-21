@@ -16,14 +16,12 @@ A Laravel Developer with 6 months of experience in designing, developing and mai
 - Back-end: Laravel, C#
 - Front-end: VueJs, Blade
 - Database: MySQL, SQLServer
-- Web server: Nginx, Apache
 - IDE/Editor: Visual Studio Code
 - Source control: Git
 
 ## Professional Experience
 __Web Developer at Amela (Feb 2022 - Mar 2023)__
 - Participated in agile development processes, including sprint planning, and daily stand-up meetings
-- Collaborated with the development team to design, develop and maintain web applications using Laravel and VueJS frameworks
 - Designed and developed RESTful APIs for web applications
 - Database developed and maintained with MySQL
 - Collaborated with cross-functional teams to develop high-quality software applications
@@ -35,6 +33,7 @@ ___Projects___
 _PLIJ_
 - Create articles about the fields of life, technology...
 - Export articles to file.
+- Team size: 6
 - Rate and respond to articles.
 - Technology: Laravel, Mysql,  Jquery
 
