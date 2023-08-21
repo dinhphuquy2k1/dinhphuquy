@@ -33,8 +33,8 @@ ___Projects___
 _PLIJ_
 - Create articles about the fields of life, technology...
 - Export articles to file.
-- Team size: 6
 - Rate and respond to articles.
+- Team size: 6
 - Technology: Laravel, Mysql,  Jquery
 
 ## Language
