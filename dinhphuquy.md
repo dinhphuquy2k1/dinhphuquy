@@ -20,7 +20,7 @@ A Laravel Developer with 6 months of experience in designing, developing and mai
 - Source control: Git
 
 ## Professional Experience
-__Web Developer at Amela (Feb 2022 - Mar 2023)__
+__Web Developer at Amela (Feb  2023 - July 2023)__
 - Participated in agile development processes, including sprint planning, and daily stand-up meetings
 - Designed and developed RESTful APIs for web applications
 - Database developed and maintained with MySQL
