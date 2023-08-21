@@ -1,42 +1,43 @@
-# Name: John Doe
-## Address: 123 ABC Street, XYZ City
-## Email: john@example.com
-## Phone: 123-456-7890
+# Dinh Phu Quy
+_Hanoi Capital_  
+_(+84)32-5451-325_  
+_dinhphuquy2001@gmail.com_
 
-## Career Objective
-I am an experienced web and application developer with a passion for learning and contributing to technological advancements.
+## Sumary
+A Laravel Developer with 6 months of experience in designing, developing and maintaining web applications. Experienced in using technologies such as Vuejs, MySQL. A self-motivated individual who is able to work in a team or independently with strong problem-solving skills and excellent communication skills.
 
-## Work Experience
-### Company ABC (2020 - Present)
-- Senior Programmer
-- Developed and maintained web applications using HTML, CSS, and JavaScript
-- Collaborated with the development team to design and implement new features
+## Technical Skills:
+- Proficient in PHP, Laravel, VueJS, HTML, CSS, JavaScript, jQuery, and MySQL
+- Experienced in database designing.
+- Knowledgeable in RESTful APIs and JSON
+- Experienced in  Git version control system
 
-### Company XYZ (2018 - 2020)
-- Conducted testing and debugging prior to deployment
-- Built user-friendly and responsive user interfaces
-- Developed and optimized databases
+### Software / Tools:
+- Back-end: Laravel, C#
+- Front-end: VueJs, Blade
+- Database: MySQL, SQLServer
+- Web server: Nginx, Apache
+- IDE/Editor: Visual Studio Code
+- Source control: Git
 
-## Education
-### ABC University (2014 - 2018)
-- Bachelor of Science in Information Technology
-- GPA: 3.8/4.0
+## Professional Experience
+__Web Developer at Amela (Feb 2022 - Mar 2023)__
+- Participated in agile development processes, including sprint planning, and daily stand-up meetings
+- Collaborated with the development team to design, develop and maintain web applications using Laravel and VueJS frameworks
+- Designed and developed RESTful APIs for web applications
+- Database developed and maintained with MySQL
+- Collaborated with cross-functional teams to develop high-quality software applications
+- Troubleshot and resolved technical issues related to web applications
+- Source control with Git &  JP Backlog
 
-## Skills
-- Programming Languages: JavaScript, PHP, Python
-- Frameworks: React, Laravel
-- Databases: MySQL, MongoDB
-- HTML, CSS, Git
+___Projects___
 
-## Personal Projects
-- Personal programming and technology blog: [example.com](https://example.com)
-- Task management project using React and Node.js: [github.com/my-project](https://github.com/my-project)
+_PLIJ_
+- Create articles about the fields of life, technology...
+- Export articles to file.
+- Rate and respond to articles.
+- Technology: Laravel, Mysql,  Jquery
 
-## Interests
-- Reading technology and personal development books
-- Traveling to explore new cultures
-
-## Contact
-- Email: john@example.com
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe/)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+## Language
+- Basic in English
+- Native speaker of Vietnamese
