@@ -3,7 +3,7 @@ _Hanoi Capital_
 _(+84)32-5451-325_  
 _dinhphuquy2001@gmail.com_
 
-## Sumary
+## Summary
 A Laravel Developer with 6 months of experience in designing, developing and maintaining web applications. Experienced in using technologies such as Vuejs, MySQL. A self-motivated individual who is able to work in a team or independently with strong problem-solving skills and excellent communication skills.
 
 ## Technical Skills:
