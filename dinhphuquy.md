@@ -31,11 +31,21 @@ __Web Developer at Amela (Feb  2023 - July 2023)__
 ___Projects___
 
 _PLIJ_
-- Create articles about the fields of life, technology...
+- Publish documents, articles on science, engineering and technology, health...
 - Export articles to file.
-- Rate and respond to articles.
-- Team size: 6
+- Rate, share, download materials.
+- Team size: 5
 - Technology: Laravel, Mysql,  Jquery
+
+_ExcelGrader_
+- Upload exams, lists.
+- Automatic grading of exams
+- Export exam results.
+- Team size: 2
+- Technology: Laravel, Mysql,  Vuejs
+
+## Honors & Awards 
+- Second prize for students in scientific research in 2023
 
 ## Language
 - Basic in English
